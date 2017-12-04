@@ -1,4 +1,4 @@
-# Zend Framework 2 Json RPC controllers inside MVC
+# ZF2 Json RPC controllers in MVC stack
 
 ## Introduction
 
@@ -170,10 +170,10 @@ If an error is thrown by the system this is the returning json
         "code": 666,
         "message": "You are a loser",
         "data": {
-          "debug": "You are a loser and nothing can be done to avoid this problem..."
+          "debug": "You are a loser and nothing can be done to solve this problem..."
         }
     }
 }
 ```
 
-Ask giampaolo and he will explains you everything about the code!
+Have good luck!
