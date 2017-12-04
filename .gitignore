@@ -1,0 +1,13 @@
+.*
+!.gitignore
+!.editorconfig
+!.bowerrc
+!.jshintrc
+composer.lock
+build-config.xml
+nbproject
+autoload_*
+!autoload_production
+!autoload_preproduzione
+vendor/
+docs/

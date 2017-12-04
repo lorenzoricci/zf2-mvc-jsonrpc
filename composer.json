@@ -1,0 +1,23 @@
+{
+  "name": "lorenzoricci/zf2-mvc-jsonrpc",
+  "description": "JsonRPC integration inside MVC stack",
+  "type": "library",
+  "version": "1.0.2",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Lorenzo Ricci",
+      "email": "lorenzo.ricci@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "zendframework/zendframework": "2.*",
+    "doctrine/annotations": "1.2.*@dev"
+  },
+  "autoload": {
+    "psr-0": {
+      "ZF2MvcJsonRPC\\": "src/"
+    }
+  }
+}
